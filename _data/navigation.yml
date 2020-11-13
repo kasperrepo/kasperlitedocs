@@ -11,7 +11,7 @@ header:
   #     zh-Hans:  关于
   #     zh-Hant:  關於
   #   url:        /about.html
-new-feature:
+feature:
   - title: Tính năng
     children:
       - title: Giới Thiệu Tổng Quan
