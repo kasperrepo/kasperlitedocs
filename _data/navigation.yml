@@ -16,7 +16,7 @@ feature:
     children:
       - title: Giới Thiệu Tổng Quan
         url: /
-      - title: Cặp cổ Cont
+      - title: Cặp cổ Cont (Điều độ)
         url: /cap-co-cont
       - title: Cặp cổ Cont App tài xế
         url: /cap-co-cont-tai-xe
