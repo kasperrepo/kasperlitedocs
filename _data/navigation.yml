@@ -18,5 +18,7 @@ feature:
         url: /
       - title: Cặp cổ Cont (Điều độ)
         url: /cap-co-cont
+      - title: Sắp xếp thứ tự công việc (Điều độ)
+        url: /sap-xep-thu-tu-cong-viec
       - title: Cặp cổ Cont App tài xế
         url: /cap-co-cont-tai-xe
