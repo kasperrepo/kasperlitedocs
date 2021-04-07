@@ -34,5 +34,5 @@ costing:
 taskcard:
   - title: Tác vụ
     children:
-       - title: Phiếu tác vụ Chi tiết (Kế toán)
+      - title: Phiếu tác vụ Chi tiết (Kế toán)
         url: /phieu-tac-vu-chi-tiet
