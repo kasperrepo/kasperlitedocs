@@ -24,14 +24,12 @@ feature:
         url: /cap-co-cont-tai-xe
       - title: Bãi Trung Gian
         url: /bai-trung-gian
-costing:
   - title: Costing
     children:
       - title: Giới Thiệu Tổng Quan
         url: /
       - title: Bảng Lương Chuyển Cont
         url: /bang-luong-chuyen-cont
-taskcard:
   - title: Tác vụ
     children:
       - title: Phiếu tác vụ Chi tiết (Kế toán)
