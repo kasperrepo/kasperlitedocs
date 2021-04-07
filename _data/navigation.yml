@@ -26,8 +26,6 @@ feature:
         url: /bai-trung-gian
   - title: Costing
     children:
-      - title: Giới Thiệu Tổng Quan
-        url: /
       - title: Bảng Lương Chuyển Cont
         url: /bang-luong-chuyen-cont
   - title: Tác vụ
