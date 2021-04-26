@@ -24,6 +24,10 @@ feature:
         url: /cap-co-cont-tai-xe
       - title: Bãi Trung Gian
         url: /bai-trung-gian
+      - title: Ghép Vận Đơn
+        url: /ghep-van-don 
+      - title: Bỏ Ghép Vận Đơn
+        url: /bo-ghep-van-don          
   - title: Costing
     children:
       - title: Bảng Lương Chuyển Cont
