@@ -32,6 +32,10 @@ feature:
     children:
       - title: Bảng Lương Chuyển Cont
         url: /bang-luong-chuyen-cont
+  - title: Billing
+    children:
+      - title: Quản Lý Đơn Giá FCL
+        url: /quan-ly-don-gia-fcl
   - title: Tác vụ
     children:
       - title: Phiếu tác vụ Chi tiết (Kế toán)
