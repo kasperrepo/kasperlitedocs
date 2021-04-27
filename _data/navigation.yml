@@ -36,6 +36,8 @@ feature:
     children:
       - title: Quản Lý Đơn Giá FCL
         url: /quan-ly-don-gia-fcl
+      - title: Báo Cáo Sản Lượng FCL
+        url: /bao-cao-san-luong-fcl
   - title: Tác vụ
     children:
       - title: Phiếu tác vụ Chi tiết (Kế toán)
