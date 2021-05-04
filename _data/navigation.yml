@@ -1,16 +1,16 @@
 header:
-  # - titles: 
-  #     en: 
-  #   url: /
-  # - titles: 
-  #     en: Docs
-  #   url: /docs/en/quick-start
-  # - titles:
-  #     en:       About
-  #     zh:       关于
-  #     zh-Hans:  关于
-  #     zh-Hant:  關於
-  #   url:        /about.html
+# - titles:
+#     en:
+#   url: /
+# - titles:
+#     en: Docs
+#   url: /docs/en/quick-start
+# - titles:
+#     en:       About
+#     zh:       关于
+#     zh-Hans:  关于
+#     zh-Hant:  關於
+#   url:        /about.html
 feature:
   - title: Tính năng
     children:
@@ -42,3 +42,9 @@ feature:
     children:
       - title: Phiếu tác vụ Chi tiết (Kế toán)
         url: /phieu-tac-vu-chi-tiet
+  - title: Mobile
+    children:
+      - title: Đăng nhập
+        url: /mobile/signin
+      - title: Danh sách công việc
+        url: /mobile/task-list
