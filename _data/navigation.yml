@@ -42,3 +42,15 @@ feature:
     children:
       - title: Phiếu tác vụ Chi tiết (Kế toán)
         url: /phieu-tac-vu-chi-tiet
+  - title: Mobile
+    children:
+      - title: Đăng nhập
+        url: /mobile/dang-nhap
+  - title: Mobile
+    children:
+      - title: Thực hiện công việc
+        url: /mobile/Thuc-hien-cong-viec
+  - title: Mobile
+    children:
+      - title: Các chức năng khác 
+        url: /mobile/Thuc-hien-cong-viec
