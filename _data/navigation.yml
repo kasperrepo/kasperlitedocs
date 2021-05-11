@@ -60,3 +60,9 @@ feature:
         url: /them-don-hang-moi
       - title: Thêm vận đơn mới
         url: /them-van-hang-moi
+      - title: Sao chép vận đơn
+        url: /sao-chep-van-don
+      - title: Chỉnh sửa Đơn hàng/ Vận đơn
+        url: /chinh-sua-don-hang-van-don
+      - title: Huỷ Đơn hàng/ Vận đơn
+        url: /huy-don-hang-van-don
