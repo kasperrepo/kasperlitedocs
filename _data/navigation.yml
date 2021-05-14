@@ -12,52 +12,18 @@ header:
   #     zh-Hant:  關於
   #   url:        /about.html
 feature:
-  - title: Tính năng
+  - title: 
     children:
       - title: Giới Thiệu Tổng Quan
         url: /
-      - title: Cặp cổ Cont (Điều độ)
-        url: /cap-co-cont
-      - title: Sắp xếp thứ tự công việc (Điều độ)
-        url: /sap-xep-thu-tu-cong-viec
-      - title: Cặp cổ Cont App tài xế
-        url: /cap-co-cont-tai-xe
-      - title: Bãi Trung Gian
-        url: /bai-trung-gian
-      - title: Ghép Vận Đơn
-        url: /ghep-van-don
-      - title: Bỏ Ghép Vận Đơn
-        url: /bo-ghep-van-don
-  - title: Costing
-    children:
-      - title: Bảng Lương Chuyển Cont
-        url: /bang-luong-chuyen-cont
-  - title: Billing
-    children:
-      - title: Quản Lý Đơn Giá FCL
-        url: /quan-ly-don-gia-fcl
-      - title: Báo Cáo Sản Lượng FCL
-        url: /bao-cao-san-luong-fcl
-  - title: Tác vụ
-    children:
-      - title: Phiếu tác vụ Chi tiết (Kế toán)
-        url: /phieu-tac-vu-chi-tiet
-
-  - title: Mobile
-    children:
-      - title: Đăng nhập
-        url: /dang-nhap
-      - title: Thực hiện công việc
-        url: /thuc-hien-cong-viec
-      - title: Các chức năng khác 
-        url: /cac-chuc-nang-khac
-
   - title: Quản lý đơn hàng (Kế hoạch hàng hoá)
     children:
       - title: Giao diện Quản lý đơn hàng
         url: /giao-dien-quan-ly-don-hang
       - title: Thêm đơn hàng mới
         url: /them-don-hang-moi
+      - title: Tìm kiếm đơn hàng
+        url: /tim-kiem-don-hang
       - title: Thêm vận đơn mới
         url: /them-van-hang-moi
       - title: Sao chép vận đơn
@@ -66,3 +32,43 @@ feature:
         url: /chinh-sua-don-hang-van-don
       - title: Huỷ Đơn hàng/ Vận đơn
         url: /huy-don-hang-van-don
+      - title: Trạng thái của Đơn hàng/ Vận đơn
+        url: /trang-thai-don-hang-van-don
+
+  - title: Quản lý công việc (Điều độ)
+    children:
+      - title: Cặp cổ Cont (Điều độ)
+        url: /cap-co-cont
+      - title: Sắp xếp thứ tự công việc (Điều độ)
+        url: /sap-xep-thu-tu-cong-viec
+      - title: Bãi Trung Gian
+        url: /bai-trung-gian
+      - title: Ghép Vận Đơn
+        url: /ghep-van-don
+      - title: Bỏ Ghép Vận Đơn
+        url: /bo-ghep-van-don
+
+  - title: Costing (Kế toán)
+    children:
+      - title: Bảng Lương Chuyển Cont
+        url: /bang-luong-chuyen-cont
+      - title: Phiếu tác vụ Chi tiết 
+        url: /phieu-tac-vu-chi-tiet
+
+  - title: Billing
+    children:
+      - title: Quản Lý Đơn Giá FCL
+        url: /quan-ly-don-gia-fcl
+      - title: Báo Cáo Sản Lượng FCL
+        url: /bao-cao-san-luong-fcl
+
+  - title: Mobile App của Tài xế
+    children:
+      - title: Đăng nhập
+        url: /dang-nhap
+      - title: Thực hiện công việc
+        url: /thuc-hien-cong-viec
+      - title: Cặp cổ Cont App tài xế
+        url: /cap-co-cont-tai-xe
+      - title: Các chức năng khác 
+        url: /cac-chuc-nang-khac
