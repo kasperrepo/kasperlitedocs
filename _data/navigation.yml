@@ -37,16 +37,26 @@ feature:
 
   - title: Quản lý công việc (Điều độ)
     children:
-      - title: Cặp cổ Cont (Điều độ)
+      - title: Giao diện Quản lý công việc
+        url: /giao-dien-quan-ly-cong-viec
+      - title: Phân Mooc
+        url: phan-mooc               
+      - title: Cặp cổ Cont 
         url: /cap-co-cont
-      - title: Sắp xếp thứ tự công việc (Điều độ)
-        url: /sap-xep-thu-tu-cong-viec
       - title: Bãi Trung Gian
         url: /bai-trung-gian
       - title: Ghép Vận Đơn
         url: /ghep-van-don
       - title: Bỏ Ghép Vận Đơn
         url: /bo-ghep-van-don
+      - title: Tạo/ Sửa chuyến
+        url: /tao-sua-chuyen      
+      - title: Các chức năng Quản lý chuyến 
+        url: /cac-chuc-nang-quan-ly-chuyen 
+      - title: Sắp xếp thứ tự công việc 
+        url: /sap-xep-thu-tu-cong-viec
+      - title: Phân công công việc
+        url: /phan-cong-cong-viec
 
   - title: Costing (Kế toán)
     children:
