@@ -42,3 +42,21 @@ feature:
     children:
       - title: Phiếu tác vụ Chi tiết (Kế toán)
         url: /phieu-tac-vu-chi-tiet
+
+  - title: Mobile
+    children:
+      - title: Đăng nhập
+        url: /dang-nhap
+      - title: Thực hiện công việc
+        url: /thuc-hien-cong-viec
+      - title: Các chức năng khác 
+        url: /cac-chuc-nang-khac
+
+  - title: Quản lý đơn hàng (Kế hoạch hàng hoá)
+    children:
+      - title: Giao diện Quản lý đơn hàng
+        url: /giao-dien-quan-ly-don-hang
+      - title: Thêm đơn hàng mới
+        url: /them-don-hang-moi
+      - title: Thêm vận đơn mới
+        url: /them-van-hang-moi
