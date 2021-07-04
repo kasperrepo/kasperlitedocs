@@ -1,8 +1,8 @@
 header:
-  # - titles: 
-  #     en: 
+  # - titles:
+  #     en:
   #   url: /
-  # - titles: 
+  # - titles:
   #     en: Docs
   #   url: /docs/en/quick-start
   # - titles:
@@ -12,11 +12,9 @@ header:
   #     zh-Hant:  關於
   #   url:        /about.html
 feature:
-  - title: 
-    children:
-      - title: Giới Thiệu Tổng Quan
-        url: /gioi-thieu-tong-quan
-  - title: Quản lý vận đơn 
+  - title: Giới Thiệu Tổng Quan
+    url: /
+  - title: Quản lý vận đơn
     children:
       - title: Giao diện Quản lý vận đơn
         url: /giao-dien-quan-ly-van-don
@@ -28,7 +26,7 @@ feature:
         url: /chinh-sua-xac-nhan
       - title: Huỷ vận đơn
         url: /huy-van-don
-      - title: Theo dõi trạng thái của vận đơn 
+      - title: Theo dõi trạng thái của vận đơn
         url: /trang-thai-van-don
   - title: Quản lý công việc
     children:
@@ -46,7 +44,7 @@ feature:
     children:
       - title: Giao diện Quản lý tài xế
         url: /giao-dien-quan-ly-tai-xe
-      - title: Thêm tài xế mới 
+      - title: Thêm tài xế mới
         url: /them-tai-xe-moi
       - title: Sửa/ Xoá thông tin tài xế
         url: /sua-xoa-tai-xe
@@ -62,6 +60,3 @@ feature:
         url: /thuc-hien-cong-viec
       - title: Khai báo y tế trên Kasper Lite
         url: /khai-bao-y-te
-
-
-    
