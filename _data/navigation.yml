@@ -15,70 +15,53 @@ feature:
   - title: 
     children:
       - title: Giới Thiệu Tổng Quan
-        url: /
-  - title: Quản lý đơn hàng (Kế hoạch hàng hoá)
+        url: /gioi-thieu-tong-quan
+  - title: Quản lý vận đơn 
     children:
-      - title: Giao diện Quản lý đơn hàng
-        url: /giao-dien-quan-ly-don-hang
-      - title: Thêm đơn hàng mới
-        url: /them-don-hang-moi
-      - title: Tìm kiếm đơn hàng
-        url: /tim-kiem-don-hang
+      - title: Giao diện Quản lý vận đơn
+        url: /giao-dien-quan-ly-van-don
       - title: Thêm vận đơn mới
-        url: /them-van-hang-moi
-      - title: Sao chép vận đơn
-        url: /sao-chep-van-don
-      - title: Chỉnh sửa Đơn hàng/ Vận đơn
-        url: /chinh-sua-don-hang-van-don
-      - title: Huỷ Đơn hàng/ Vận đơn
-        url: /huy-don-hang-van-don
-      - title: Trạng thái của Đơn hàng/ Vận đơn
-        url: /trang-thai-don-hang-van-don
-
-  - title: Quản lý công việc (Điều độ)
+        url: /them-van-don-moi
+      - title: Tìm kiếm và Lọc vận đơn
+        url: /tim-kiem-loc-van-don
+      - title: Chỉnh sửa và Xác nhận vận đơn
+        url: /chinh-sua-xac-nhan
+      - title: Huỷ vận đơn
+        url: /huy-van-don
+      - title: Theo dõi trạng thái của vận đơn 
+        url: /trang-thai-van-don
+  - title: Quản lý công việc
     children:
       - title: Giao diện Quản lý công việc
         url: /giao-dien-quan-ly-cong-viec
-      - title: Phân Mooc
-        url: phan-mooc               
-      - title: Cặp cổ Cont 
-        url: /cap-co-cont
-      - title: Bãi Trung Gian
-        url: /bai-trung-gian
-      - title: Ghép Vận Đơn
-        url: /ghep-van-don
-      - title: Bỏ Ghép Vận Đơn
-        url: /bo-ghep-van-don
-      - title: Tạo/ Sửa chuyến
-        url: /tao-sua-chuyen      
-      - title: Các chức năng Quản lý chuyến 
-        url: /cac-chuc-nang-quan-ly-chuyen 
-      - title: Sắp xếp thứ tự công việc 
-        url: /sap-xep-thu-tu-cong-viec
-      - title: Phân công công việc
+      - title: Phân công công việc cho tài xế
         url: /phan-cong-cong-viec
-
-  - title: Costing (Kế toán)
+      - title: Huỷ công việc chưa phân công
+        url: /huy-cong-viec-chua-phan-cong
+      - title: Tạm hoãn công việc đã phân công
+        url: /tam-hoan-cong-viec
+      - title: Theo dõi tiến độ công việc của tài xế
+        url: /theo-doi-cong-viec
+  - title: Quản lý tài xế
     children:
-      - title: Bảng Lương Chuyển Cont
-        url: /bang-luong-chuyen-cont
-      - title: Phiếu tác vụ Chi tiết 
-        url: /phieu-tac-vu-chi-tiet
-
-  - title: Billing
+      - title: Giao diện Quản lý tài xế
+        url: /giao-dien-quan-ly-tai-xe
+      - title: Thêm tài xế mới 
+        url: /them-tai-xe-moi
+      - title: Sửa/ Xoá thông tin tài xế
+        url: /sua-xoa-tai-xe
+      - title: Cập nhật Xét nghiệm
+        url: /cap-nhat-xet-nghiem
+  - title: Kasper Lite trên điện thoại của tài xế
     children:
-      - title: Quản Lý Đơn Giá FCL
-        url: /quan-ly-don-gia-fcl
-      - title: Báo Cáo Sản Lượng FCL
-        url: /bao-cao-san-luong-fcl
-
-  - title: Mobile App của Tài xế
-    children:
-      - title: Đăng nhập
-        url: /dang-nhap
-      - title: Thực hiện công việc
+      - title: Đăng nhập/ Đăng xuất Kasper Lite
+        url: /dang-nhap-xuat-kasper-lite
+      - title: Đổi mật khẩu Kasper Lite
+        url: /doi-mat-khau
+      - title: Thực hiện công việc trên Kasper Lite
         url: /thuc-hien-cong-viec
-      - title: Cặp cổ Cont App tài xế
-        url: /cap-co-cont-tai-xe
-      - title: Các chức năng khác 
-        url: /cac-chuc-nang-khac
+      - title: Khai báo y tế trên Kasper Lite
+        url: /khai-bao-y-te
+
+
+    
