@@ -12,8 +12,10 @@ header:
   #     zh-Hant:  關於
   #   url:        /about.html
 feature:
-  - title: Giới Thiệu Tổng Quan
-    url: /
+  - title:
+    children:
+      - title: Giới Thiệu Tổng Quan
+        url: /
   - title: Quản lý vận đơn
     children:
       - title: Giao diện Quản lý vận đơn
